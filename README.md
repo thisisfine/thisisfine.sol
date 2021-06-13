@@ -1,0 +1,1 @@
+# thisisfine.sol
